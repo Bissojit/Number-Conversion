@@ -12,13 +12,13 @@ A **C program** that allows conversion between **Decimal, Binary, Octal, and Hex
 ## Installation & Usage
 
 ### Clone the Repository
-Clone this repository to your local machine:
-git clone https://github.com/Bissojit/Number-Conversion.git
+Clone this repository to your local machine
+
 cd Number-Conversion
 
 
 ### Compile the Code
-Use any kind of **C** complier to run this **C** program. You can also use online **C** complier to run this **C** program.
+Use any kind of **C** complier to run this **Number conversion.c** program. You can also use online **C** complier to run this program.
 
 ### Run the Program
 Run the compiled program.
