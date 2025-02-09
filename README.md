@@ -18,7 +18,7 @@ cd Number-Conversion
 
 
 ### Compile the Code
-Use any kind of **C** complier to run this **Number conversion.c** program. You can also use online **C** complier to run this program.
+Use any kind of **C** complier to run this **Number conversion.c** program.
 
 ### Run the Program
 Run the compiled program.
